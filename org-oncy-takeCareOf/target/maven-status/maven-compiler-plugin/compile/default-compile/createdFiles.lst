@@ -1,0 +1,4 @@
+org\newit\springboot\starter\TimeProviderAutoConfiguration.class
+org\newit\springboot\starter\TimeProvider.class
+org\newit\springboot\starter\TimeProviderProperties.class
+META-INF\spring-configuration-metadata.json

@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.newit.springboot.starter.TimeProviderProperties",
+      "name": "org.oncy.timeprovider",
+      "type": "org.newit.springboot.starter.TimeProviderProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.newit.springboot.starter.TimeProviderProperties",
+      "name": "org.oncy.timeprovider.current-time",
+      "type": "java.util.Date"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.newit.microservice.UserModel",
+      "name": "newit.user",
+      "type": "org.newit.microservice.UserModel"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.newit.microservice.UserModel",
+      "defaultValue": 0,
+      "name": "newit.user.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.newit.microservice.UserModel",
+      "name": "newit.user.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
